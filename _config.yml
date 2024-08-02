@@ -1,3 +1,6 @@
 title: My GitHub Pages Site
 description: A simple site to showcase my Markdown files
 theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
