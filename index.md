@@ -2,5 +2,8 @@
 layout: default
 title: Home
 ---
+<link rel="stylesheet" type="text/css" href="styles.css">
 
-{% include_relative resume.md %} 
+<div class="container">
+  {% include_relative resume.md %}
+</div>

@@ -1,6 +1,7 @@
 # 職務経歴書 - 立石祐将
 
 ## 基本情報
+
 |Title|value|
 |:--:|:--:|
 |氏名|立石 祐将（たていし ゆうすけ）|
@@ -165,7 +166,7 @@ VTuberを制作・運用するプロジェクトが立ち上がり、企画全�
 - [STORES株式会社での新規プロダクト立ち上げについて](https://note.com/tanukin_dayo/n/n1106d612c138)
 
 ## 連絡先情報
-- Facebook: https://www.facebook.com/tateuishi.yusuke
-- Twitter: https://x.com/tanukin_dayo
-- LinkedIn: https://www.linkedin.com/in/%E7%A5%90%E5%B0%86-%E7%AB%8B%E7%9F%B3-6342a230b/
+- [Facebook/Messenger](https://www.facebook.com/tateuishi.yusuke)
+- [X/Twitter](https://x.com/tanukin_dayo)
+- [LinkedIn](https://www.linkedin.com/in/%E7%A5%90%E5%B0%86-%E7%AB%8B%E7%9F%B3-6342a230b/)
 - 居住地：福岡県福岡市
